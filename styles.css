@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #fff;
+}
+
+input {
+    padding: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#message {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+}
+
+footer {
+    background-color:ff0000;
+    font-family: Arial, sans-serif;
+    text-decoration: underline;
+}
+
+.escuro {
+    background-color: #333;
+    color: #fff
+}
+
+.escuro #texto{
+    color: #333;
+}
