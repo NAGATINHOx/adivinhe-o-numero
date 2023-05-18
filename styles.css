@@ -1,6 +1,7 @@
 body {
     text-align: center;
     font-family: Arial, sans-serif;
+    background-image: url(img/animado.gif);
 }
 
 h1 {
@@ -29,7 +30,7 @@ button:hover {
     margin-top: 20px;
     font-size: 18px;
     font-weight: bold;
-    color: #333;
+    color: #fff;
 }
 
 img {
